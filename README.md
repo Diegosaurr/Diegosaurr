@@ -3,7 +3,7 @@
 <br>
 
 <!-- TU IMAGEN -->
-<img width="497" height="443" alt="tumblr_psf9yqBEJM1s3qjdno3_1280 (1)" src="https://github.com/user-attachments/assets/5bf2510e-dceb-43eb-9bcb-1d892f31ef1b" />
+<img width="687" height="633" alt="tumblr_psf9yqBEJM1s3qjdno3_1280 (1)" src="https://github.com/user-attachments/assets/5bf2510e-dceb-43eb-9bcb-1d892f31ef1b" />
 
 
 <br><br>
