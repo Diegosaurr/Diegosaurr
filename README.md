@@ -31,11 +31,12 @@
   <p align="center">
   </p>
 
-      HII, int w me honestly isn't that hard, but there might be times when
-      I’m just not in the mood, and I’ll probably be pretty difficult to deal w,
-      whether it’s toward u or just in general... Also, I can be quite shy around ppl
-      I’ve just met, but once I get comf w u, u’ll probably end up getting tired of all
-      the nonsense I come out w LOL
+      HII, int w me honestly isn't that hard, but there might
+      be times whenI’m just not in the mood, and I’ll probably
+      be pretty difficult to deal w, whether it’s toward u or
+      just in general... Also, I can be quite shy around ppl I’ve
+      just met, but once I get comf w u, u’ll probably end up
+      getting tired of all the nonsense I come out w LOL
   </table>
 
   <br>
