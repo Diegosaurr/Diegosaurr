@@ -54,7 +54,7 @@
     
   </p>
 
-      aleㅤㅤmateoㅤㅤdamㅤㅤnikㅤㅤmatíasㅤㅤcarancitoㅤ
+      aleㅤㅤmateoㅤㅤdamㅤㅤmatíasㅤㅤcarancitoㅤ
     jadeㅤㅤmanzanaㅤㅤenzoㅤㅤjoyㅤㅤrigorㅤㅤkanboo
   </table>
 
